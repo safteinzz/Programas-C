@@ -9,7 +9,7 @@ void printArray(char *array, int size) {
     }
 }
 
-int main(void) {
+int main() {
     int tamano;
     printf("Introduce size:\n");
     scanf("%d", &tamano);

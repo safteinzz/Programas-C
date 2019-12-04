@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575483069 source:c:\users\safteinzz\documents\github\codigos-c-actividades\sistemas operativos programillas\pract12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
